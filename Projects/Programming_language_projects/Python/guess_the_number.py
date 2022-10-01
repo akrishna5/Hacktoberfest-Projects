@@ -1,3 +1,5 @@
+#github - akrishna5
+
 import random
 number = random.randint(1, 10)
 
